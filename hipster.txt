@@ -1,0 +1,2 @@
+Trying to insert a new text file using vi
+Second line using brackets
