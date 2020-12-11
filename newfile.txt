@@ -1,2 +1,0 @@
-Weird thing I can't seem to add a simple text file using brackets althoough I can modify them after creating them 
-Still learning
